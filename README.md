@@ -1,6 +1,6 @@
 # Telecom-customer-Churn
 
-Work on the Telecom customer Churn dataset: https://github.com/SKawsar/Machine_Learning_With_Python_Batch_2/blob/main/Churn.csv 
+Work on the Telecom customer Churn dataset: https://github.com/Farhana-afrin/Telecom-customer-Churn/blob/main/Churn.csv 
 Actual dataset source: https://learn.datacamp.com/courses/marketing-analytics-predicting-customer-churn-in-python
 
 This includes the followings:
